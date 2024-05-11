@@ -1,0 +1,58 @@
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.exe
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.deps.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.runtimeconfig.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.pdb
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.csproj.GenerateResource.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.AssemblyInfoInputs.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.AssemblyInfo.cs
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\refint\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.pdb
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.genruntimeconfig.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\ref\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Feedback.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Principal.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.Properties.Resources.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.sourcelink.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.exe
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.deps.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.runtimeconfig.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.pdb
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Feedback.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Principal.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.Properties.Resources.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.csproj.GenerateResource.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.AssemblyInfoInputs.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.AssemblyInfo.cs
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.sourcelink.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\refint\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.pdb
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.genruntimeconfig.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\sem tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\ref\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.exe
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.deps.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.runtimeconfig.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\bin\Debug\net8.0-windows\PIM 3º SEMESTRE.pdb
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Feedback.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Home.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.frm_Principal.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM_3º_SEMESTRE.Properties.Resources.resources
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.csproj.GenerateResource.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.AssemblyInfoInputs.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.AssemblyInfo.cs
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.sourcelink.json
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\refint\PIM 3º SEMESTRE.dll
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.pdb
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\PIM 3º SEMESTRE.genruntimeconfig.cache
+C:\Users\mvc11\OneDrive\Área de Trabalho\PIM 3º SEMESTRE\SOFTWARE\com tela inicial\PIM 3º SEMESTRE\PIM 3º SEMESTRE\obj\Debug\net8.0-windows\ref\PIM 3º SEMESTRE.dll
